@@ -8,6 +8,11 @@ choice or the option to create a stopwatch.
 
 
 
+--IMPORTANT--
+Please feel free to edit and alter this code to your liking but make sure you give me credit if you use my code in any way.
+
+
+
 MIT License
 
 Copyright (c) 2020 JordanLeich
